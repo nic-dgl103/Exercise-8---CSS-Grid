@@ -37,7 +37,7 @@ Style the page to ensure that the design is visually well-ordered and easy to re
 - Apply a grid-gap to create clear separation between grid items, preventing elements from crowding each other.
 - Use background colors strategically to differentiate areas without being overly distracting. Choose a cohesive color palette to maintain a polished and unified appearance.
 - Add appropriate padding and margins to create enough breathing room around the content, ensuring that the layout feels balanced and uncluttered.
-- Ensure that the layout is flexible by using relative units like fr, %, and rem for grid items and their content. This helps the layout adapt to different screen sizes and user/browser preferences.
+- Ensure that the layout is flexible by using relative units like fr, %, and rem for grid items and their content. Small box model dimensions can use the px unit. This helps the layout adapt to different screen sizes and user/browser preferences.
 - Implement Flexbox inside at least 2 grid cells for additional layout control. For example, you might use Flexbox to:
   - Center content within a section (vertically and/or horizontally).
   - Evenly space navigation links, images or other elements for clean, structured alignment.
